@@ -1,4 +1,7 @@
-<?php
+khklb
+CjxwYXRoIGQ9Ik00MCA0MEM0MCA0MCA0MCA0MCA0MCA0MFoiIGZpbGw9IiM5Q0EzQUYiLz4KPHRleHQgeD0iNDAiIHk9IjQ1IiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM2QjcyODAiIHRleHQtYW5jaG9yPSJtaWRkbGUiPk5vIEltYWdlPC90ZXh0Pgo8L3N2Zz4
+
+mb[<?php
 // api/cart.php
 header("Content-Type: application/json");
 require_once "../db.php";
